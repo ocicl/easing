@@ -1,0 +1,10 @@
+* easing
+
+Easing functions
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vydd/easing.git   |
+| commit  | 1601a5f  |
+| systems | easing |
+|---------+-------------------------------------------|
+
